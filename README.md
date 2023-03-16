@@ -1,1 +1,1 @@
-# Blind-Searching
+Artificial-Intelligence-Practice
